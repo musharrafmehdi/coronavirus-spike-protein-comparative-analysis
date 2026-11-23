@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as follows."
+title: "Comparative Sequence Analysis of Coronavirus Spike Proteins: An In-Silico Comparative Bioinformatics Study"
+type: software
+authors:
+  - family-names: Hussain
+    given-names: Musharraf
+version: 1.0.0
+date-released: 2026-11-23
+abstract: "An in-silico comparative bioinformatics study of the spike protein amino-acid sequences of SARS-CoV-2, SARS-CoV, and MERS-CoV using sequence alignment, conservation analysis, motif comparison, evolutionary distance calculation, and phylogenetic analysis."

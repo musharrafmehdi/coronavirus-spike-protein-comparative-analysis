@@ -1,0 +1,10 @@
+Measurement	Result
+Total alignment columns	1,393
+Columns without gaps in all three sequences	1,215
+Identical positions across all three	354
+Three-way identity across all columns	25.41%
+Three-way identity among gap-free columns	29.14%
+SARS-CoV-2 / SARS-CoV comparable positions	1,251
+Identical positions in SARS pair	968
+SARS-CoV-2 / SARS-CoV identity	77.38%
+Columns containing gaps	178
